@@ -1,0 +1,20 @@
+#Titre	auteur	prix	qteInventaire	codes categorie
+
+Origine	D. Brown	15.95	7	2	3	
+De si belles fiançailles	A. Burke | M. H. Clark	29.95	2	3	1
+La Fille du train	P. Hawkins	14.95	2	3
+Le Tricycle rouge	V. Hauuy	14.95	0	5	3
+Double piege	H. Coben	17.85	18	2	3
+La Mort n'existe pas	D. Eleonori	37.95	1	0	2
+Le Fils cache de la lune	E. Nataf	32.55	2	0	5	2
+Les neuf vies de Stéphanie Plum	J. Evanovich	23.45	4	1	3	4
+Dix-sept ans de malheur	J. Evanovich	24.95	6	3	1	4
+L'araignée est une fine mouche	E. Tredez	23.45	1	3	4
+Bad boys	Valérie Auclair	13.55	7	4	1
+La pétulante ascension de Benjamin Fabre	F. Lehman	9.25	2	4
+Rien ne va plus chez les Spellman!	L. Lutz	29.75	17	4	3
+Une vie inutile	S. Paquet	23.95	3	4
+Fondation	I. Asimov	34.50	7	0	5
+L'étoile de Pandore	P. F. Hamilton	7.65	12	2	0
+Martiens, go home!	F. Brown	12.45	0	0	4
+La fin de l'éternité	I. Asimov	34.95	3	0	1	5
